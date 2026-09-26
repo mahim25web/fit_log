@@ -4,8 +4,8 @@ FitLog is a dark, no-nonsense gym companion built for the B14-A6 assignment. Bro
 
 ## 🔗 Links
 
-- Live Link: _add after deployment_
-- GitHub Repository: _add after pushing_
+- Live Link: fit-log-web-project.vercel.app
+- GitHub Repository: https://github.com/mahim25web/fit_log.git
 
 ## ✨ Features
 
